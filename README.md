@@ -1,4 +1,4 @@
 # Hello-World
 First homemade repository
 
-Thanks for chekcin gout my GitHub!
+Thanks for checking out my GitHub!
